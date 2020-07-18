@@ -12,6 +12,6 @@
 - ⚡ Hobbies: red wine, functional programming with [RamdaJs](https://ramdajs.com/docs/), tennis 
 - ✨ Showcases:
   - https://pokerme.web.app/: SwelteJs, NodeJs, NoSql, Websocket, Firebase [repo link](https://github.com/nvhoanganh/pokerme)
-  - https://tennisscoresheet.com/: React, NodeJs, NoSql, Firebase  [repo link](https://github.com/nvhoanganh/tennis-schiit)
-  - https://codeauditor.com/: SwelteJs, NodeJs, NoSql, Azure [repo link](https://github.com/SSWConsulting/SSW.CodeAuditor)
+  - https://tennisscoresheet.com/: React, Typescript, NodeJs, NoSql, Firebase  [repo link](https://github.com/nvhoanganh/tennis-schiit)
+  - https://codeauditor.com/: SwelteJs, NodeJs, Golang, NoSql, Azure [repo link](https://github.com/SSWConsulting/SSW.CodeAuditor)
   - https://specgen.surge.sh/: SwelteJs, Python [rep link](https://github.com/nvhoanganh/ssw-spec-review-gen) 
