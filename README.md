@@ -5,7 +5,7 @@
   - Backend: Firebase, Azure, SQL, No-SQL (Firestore, MongoDb), Kubernetes, Docker, .NET Core, GraphQL
   - Frontend: Angular, React, SwelteJS, TailwindCSS, Bootstrap
   - Languages: Javascript, Typescript, Python, Golang, C#
-  - Others: SaaS application architecture, Product roadmap, MVP, Functional Programing, Cool VSCode/Chrome keyboard tricks
+  - Others: SaaS application architecture, startup ideas, Product roadmap, MVP, Functional Programing, Cool VSCode/Chrome keyboard tricks
 - 📫 How to reach me:
   - anthonynguyen1909 [LinkedIn](https://www.linkedin.com/in/anthonynguyen1909)
   - Twitter: [@anguyen1909](https://twitter.com/anguyen1909)
