@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I work at SSW: [https://ssw.com.au/people/anthony-nguyen](https://ssw.com.au/people/anthony-nguyen)
+- 👨‍💻 Solution Architect @ SSW: [https://ssw.com.au/people/anthony-nguyen](https://ssw.com.au/people/anthony-nguyen)
 - 💬 Ask me about: 
   - Backend: Firebase, Azure, SQL, No-SQL (Firestore, MongoDb), Kubernetes, Docker, .NET Core, GraphQL
   - Frontend: Angular, React, SwelteJS, TailwindCSS, Bootstrap
