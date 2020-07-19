@@ -2,9 +2,10 @@
 
 - 👨‍💻 Solution Architect @ SSW: [https://ssw.com.au/people/anthony-nguyen](https://ssw.com.au/people/anthony-nguyen)
 - 💬 Ask me about: 
-  - Backend: Firebase, Azure, SQL, No-SQL (Firestore, MongoDb), Kubernetes, Docker, .NET Core, GraphQL
+  - Backend: Firebase, Azure, SQL (PostgreSql, MsSql, MySql), No-SQL (Firestore, MongoDb), Kubernetes, Docker, .NET Core, GraphQL
   - Frontend: Angular, React, SwelteJS, TailwindCSS, Bootstrap
   - Languages: Javascript, Typescript, Python, Golang, C#
+  - Tools: E2E (Cypress, Puppeteer), Load test (Artillery.io)
   - Others: SaaS application architecture, startup ideas, Product roadmap, MVP, Functional Programing, Cool VSCode/Chrome keyboard tricks
 - 📫 How to reach me:
   - anthonynguyen1909 [LinkedIn](https://www.linkedin.com/in/anthonynguyen1909)
