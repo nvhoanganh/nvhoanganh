@@ -10,7 +10,7 @@
 - 📫 How to reach me:
   - anthonynguyen1909 [LinkedIn](https://www.linkedin.com/in/anthonynguyen1909)
   - Twitter: [@anguyen1909](https://twitter.com/anguyen1909)
-- ⚡ Hobbies: red wine, functional programming with [RamdaJs](https://ramdajs.com/docs/), tennis 
+- ⚡ Hobbies: Javascript, functional programming with [RamdaJs](https://ramdajs.com/docs/), tennis, redwine 
 - ✨ Showcases:
   - https://pokerme.web.app/: SwelteJs, NodeJs, NoSql, Websocket, Firebase [repo link](https://github.com/nvhoanganh/pokerme)
   - https://tennisscoresheet.com/: React, Typescript, NodeJs, NoSql, Firebase  [repo link](https://github.com/nvhoanganh/tennis-schiit)
