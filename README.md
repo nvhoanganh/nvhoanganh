@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 Solutions Consultant @ NewRelic
+- 👨‍💻 Solutions Consultant @ New Relic
 - 💬 Ask me about: 
   - Backend: Firebase, Azure, SQL (PostgreSql, MsSql, MySql), No-SQL (Firestore, MongoDb), Kubernetes, Docker, .NET Core, GraphQL
   - Frontend: Angular, React, SwelteJS, TailwindCSS, Bootstrap
