@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 Solution Architect @ SSW: [https://ssw.com.au/people/anthony-nguyen](https://ssw.com.au/people/anthony-nguyen)
+- 👨‍💻 Solutions Consultant @ NewRelic
 - 💬 Ask me about: 
   - Backend: Firebase, Azure, SQL (PostgreSql, MsSql, MySql), No-SQL (Firestore, MongoDb), Kubernetes, Docker, .NET Core, GraphQL
   - Frontend: Angular, React, SwelteJS, TailwindCSS, Bootstrap
